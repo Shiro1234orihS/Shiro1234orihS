@@ -18,7 +18,7 @@
 Bienvenue sur mon profil GitHub ! Voici quelques statistiques qui montrent mon activité et les langages que j'utilise le plus. Ces graphiques reflètent mes projets et mon engagement dans divers domaines du développement web et logiciel.
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Shiro1234orihS&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro1234orihS&layout=compact&theme=radical)
+[![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=Shiro1234orihS&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ## 🏆 Langages les plus utilisés
 Ce graphique met en avant les langages que j'emploie fréquemment dans mes projets.
@@ -32,9 +32,9 @@ Voici un aperçu de mon activité récente sur GitHub, illustrant mes contributi
 -->
 
 ## 📫 Me contacter :
-- **Email :** [tonemail@example.com](mailto:tonemail@example.com)  
-- **LinkedIn :** [Ton LinkedIn](https://linkedin.com/in/tonlinkedin)  
-- **Portfolio :** [Ton site web](https://tonsiteweb.com)  
+- **Email :** [ricardonunesemilio@gmail.com](ricardonunesemilio@gmail.com)  
+- **LinkedIn :** [ricardo-nunes-emilio]([https://linkedin.com/in/tonlinkedin](https://www.linkedin.com/in/ricardo-nunes-emilio/))  
+- **Portfolio :** [ricardonunesemilio.fr](https://ricardonunesemilio.fr)  
 
 <!--## 🚀 Objectif 2025
 🔍 **Je suis à la recherche d'un stage de développeur informatique** à partir du **20 janvier 2025** pour une durée de **12 à 14 semaines**.
