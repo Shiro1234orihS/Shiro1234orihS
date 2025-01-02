@@ -18,8 +18,9 @@
 Bienvenue sur mon profil GitHub ! Voici quelques statistiques qui montrent mon activité et les langages que j'utilise le plus. Ces graphiques reflètent mes projets et mon engagement dans divers domaines du développement web et logiciel.
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Shiro1234orihS&show_icons=true&theme=radical)
+[![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=Shiro1234orihS&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 Langages les plus utilisés
+<!-- ## 🏆 Langages les plus utilisés
 Ce graphique met en avant les langages que j'emploie fréquemment dans mes projets.
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro1234orihS&layout=compact&theme=radical)
@@ -28,7 +29,7 @@ Ce graphique met en avant les langages que j'emploie fréquemment dans mes proje
 Voici un aperçu de mon activité récente sur GitHub, illustrant mes contributions et collaborations.
 
 [![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=Shiro1234orihS&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 
 ## 📫 Me contacter :
 - **Email :** [tonemail@example.com](mailto:tonemail@example.com)  
