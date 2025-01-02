@@ -33,7 +33,7 @@ Voici un aperçu de mon activité récente sur GitHub, illustrant mes contributi
 
 ## 📫 Me contacter :
 - **Email :** [ricardonunesemilio@gmail.com](ricardonunesemilio@gmail.com)  
-- **LinkedIn :** [ricardo-nunes-emilio]([https://linkedin.com/in/tonlinkedin](https://www.linkedin.com/in/ricardo-nunes-emilio/))  
+- **LinkedIn :** [ricardo-nunes-emilio](https://www.linkedin.com/in/ricardo-nunes-emilio)  
 - **Portfolio :** [ricardonunesemilio.fr](https://ricardonunesemilio.fr)  
 
 <!--## 🚀 Objectif 2025
